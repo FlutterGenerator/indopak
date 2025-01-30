@@ -7,6 +7,7 @@ termux-setup-storage
 pkg update
 pkg upgrade
 pkg install git
+pkg install qemu-user-i386
 ```
 4. Clone this repository
 ```
