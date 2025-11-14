@@ -1,7 +1,8 @@
-# Installing
+## Installing
 1. Install Termux from PlayStore,
 2. Open the Termux App and wait for the installation process,
 3. Enter This Command:
+
 ```
 termux-setup-storage
 pkg update
