@@ -1,4 +1,5 @@
 ## Installing
+[![License Info](https://img.shields.io/badge/License-Apache--2.0-blue.svg?style=flat-square)](https://github.com/FlutterGenerator/indopak/blob/main/LICENSE)
 1. Install Termux from PlayStore,
 2. Open the Termux App and wait for the installation process,
 3. Enter This Command:
