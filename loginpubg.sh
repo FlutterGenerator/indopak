@@ -39,6 +39,3 @@ cp -rf /data/data/com.termux/files/home/bulletrack/*.log /storage/emulated/0/And
 }
 sleep 10
 clearlog
-
-
-
