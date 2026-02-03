@@ -1,5 +1,3 @@
-
-
 down=$EXTERNAL_STORAGE/Download
 dpak=$EXTERNAL_STORAGE/Download/pak
 quickbms=$PREFIX/share/quickbms
