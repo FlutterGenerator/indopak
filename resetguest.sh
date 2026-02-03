@@ -1,4 +1,3 @@
-
 echo "Loading..."
 echo "Starting..."
 sleep 5
